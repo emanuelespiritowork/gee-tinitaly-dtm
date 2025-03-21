@@ -1,3 +1,5 @@
 # gee-tinitaly-dtm
-Tinitaly DTM as Google Earth Engine image collection asset. Tinitaly Digital Terrain Model (DTM) is an Istituto Nazionale di Geofisica e Vulcanologia (INGV) product. TINITALY 1.1 is published with a CC BY 4.0 license and can be used freely, even partly, but it must be cited as follows:
+Tinitaly DTM as Google Earth Engine image collection asset. 
+Tinitaly Digital Terrain Model (DTM) is an Istituto Nazionale di Geofisica e Vulcanologia (INGV) product. It is an image collection of tiles of italian peninsula with a single band that corresponds to the elevation of bare ground. The spatial accuracy is 10m, projection is UTM WGS 84 zone 32 (EPSG: 32632).  
+TINITALY 1.1 is published with a CC BY 4.0 license and can be used freely, even partly, but it must be cited as follows:
 Tarquini S., I. Isola, M. Favalli, A. Battistini, G. Dotta, (2023). TINITALY, a digital elevation model of Italy with a 10 meters cell size (Version 1.1). Istituto Nazionale di Geofisica e Vulcanologia (INGV). https://doi.org/10.13127/tinitaly/1.1.
