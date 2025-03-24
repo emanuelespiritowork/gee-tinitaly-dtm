@@ -4,3 +4,4 @@ Tinitaly Digital Terrain Model (DTM) is an Istituto Nazionale di Geofisica e Vul
 I suggested uploading as official dataset of Earth Engine at https://issuetracker.google.com/issues/404066177
 TINITALY 1.1 is published with a CC BY 4.0 license and can be used freely, even partly, but it must be cited as follows:
 Tarquini S., I. Isola, M. Favalli, A. Battistini, G. Dotta, (2023). TINITALY, a digital elevation model of Italy with a 10 meters cell size (Version 1.1). Istituto Nazionale di Geofisica e Vulcanologia (INGV). https://doi.org/10.13127/tinitaly/1.1.
+From this file I also extracted the italian nation shapefile, that is available at https://code.earthengine.google.com/?asset=projects/ee-emanuelespiritowork/assets/Italy_shapefile
